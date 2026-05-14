@@ -1,5 +1,7 @@
 # Assignment 2
 
+Nicole är bajskorv
+
 ## Filer
 
 - `assignment2_analysis.py` — kör alla beräkningar och sparar figurerna
